@@ -1,0 +1,2 @@
+{"user": "username", "password": "password", "acc_count": 4, "accounts": [{"Account_number": 1, "Balance": 300}, {"Account_number": 2, "Balance": 200}, {"Account_number": 3, "Balance": 200}]}
+{"user": "k", "password": "d\u00e5", "acc_count": 4, "accounts": [{"Account_number": 1, "Balance": 102}, {"Account_number": 2, "Balance": 5}, {"Account_number": 3, "Balance": 100}]}
